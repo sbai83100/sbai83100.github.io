@@ -94,6 +94,10 @@ html, body, ul, li, h1, h2, h3, p, form, button {
     text-align: center;
     font-size: 2rem;
   }
+
+  #projects td {
+    width: 50%;
+  }
   
   .project {
     margin-bottom: 2rem;
