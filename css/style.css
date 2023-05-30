@@ -74,9 +74,14 @@ html, body, ul, li, h1, h2, h3, p, form, button {
     background-color: #555;
   }
   
-  /* About section styles */
-  #about {
+  /* Overview section styles */
+  #overview {
     padding: 3rem;
+  }
+
+  #overview h2 {
+    text-align: center;
+    font-size: 2rem;
   }
   
   /* Projects section styles */
